@@ -6,3 +6,13 @@ module.exports = {
   },
   plugins: [],
 }
+module.exports = {
+  theme: {
+    extend: {
+      fontSize: {
+        '500px': '500px',
+        '600px': '600px',
+      },
+    },
+  },
+};
